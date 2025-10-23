@@ -13,7 +13,6 @@ public class javaCalculator {
             case ADD: // if operation = ADD, return the sum
                 //person 1: add the numbers together
                 //person 2: multiply the numbers together
-                result = num1 * num2;
                 break;
             case SUBTRACT:
                 result = num1 - num2;

@@ -11,7 +11,8 @@ public class javaCalculator {
 
         switch(operation) {
             case ADD: // if operation = ADD, return the sum
-                //implement the operation here 
+                //person 1: implement the add operation here 
+                //person 2: delete this case 
                 break;
             case SUBTRACT:
                 result = num1 - num2;
